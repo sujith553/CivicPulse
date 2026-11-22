@@ -245,8 +245,8 @@ CivicPulse is pre-configured with a **Render Blueprint** ([`render.yaml`](render
 
 ## 👤 Author & Acknowledgments
 
-- **Developer:** Abdul Majeed R
-- **GitHub:** [@Abu1820](https://github.com/Abu1820)
+- **Developer:** Sujith P
+- **GitHub:** [@sujith553](https://github.com/sujith553)
 - **Repository:** [CivicPulse-Smart-Governance-Platform](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)
 
 ---
